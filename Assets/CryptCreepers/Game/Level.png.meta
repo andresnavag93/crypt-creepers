@@ -1,193 +1,136 @@
 fileFormatVersion: 2
-guid: 6eb61a6aad5fd28478be15b868849c19
+guid: 2b13fcc3260f84d1ba87cfc1fa4ad55d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5007917426709232983
-    second: Level_0
+      213: -5941200953722020715
+    second: LevelFix_0
   - first:
-      213: -3804754046442553840
-    second: Level_1
+      213: -2143797050090517256
+    second: LevelFix_1
   - first:
-      213: -2687792023407892691
-    second: Level_2
+      213: -7707872251072398181
+    second: LevelFix_2
   - first:
-      213: -8528224838657151954
-    second: Level_3
+      213: -2844269079597787914
+    second: LevelFix_3
   - first:
-      213: -4909810444019622122
-    second: Level_4
+      213: 6810548948747317775
+    second: LevelFix_4
   - first:
-      213: 997104550076659112
-    second: Level_5
+      213: 3351198330837933252
+    second: LevelFix_5
   - first:
-      213: -1524608721026578124
-    second: Level_6
+      213: -4945305470685127349
+    second: LevelFix_6
   - first:
-      213: -7060117731005221500
-    second: Level_7
+      213: 2994774034255062623
+    second: LevelFix_7
   - first:
-      213: 588912922255200443
-    second: Level_8
+      213: 1201643262750213334
+    second: LevelFix_8
   - first:
-      213: 1505305772446880993
-    second: Level_9
+      213: 2435739529839414693
+    second: LevelFix_9
   - first:
-      213: -8889210293094635755
-    second: Level_10
+      213: -8759565361979517129
+    second: LevelFix_10
   - first:
-      213: -3626626189855425384
-    second: Level_11
+      213: -4861921201351678537
+    second: LevelFix_11
   - first:
-      213: -4374163895963079906
-    second: Level_12
+      213: 8220478506740953054
+    second: LevelFix_12
   - first:
-      213: -8392167614482142578
-    second: Level_13
+      213: -25578282147425344
+    second: LevelFix_13
   - first:
-      213: -3934902526679041828
-    second: Level_14
+      213: -3133955972370673342
+    second: LevelFix_14
   - first:
-      213: 6457597992966857374
-    second: Level_15
+      213: 8784093582215675820
+    second: LevelFix_15
   - first:
-      213: -3318024433656766082
-    second: Level_16
+      213: 4715437001591146866
+    second: LevelFix_16
   - first:
-      213: -8695601594868371591
-    second: Level_17
+      213: -4954483793067042230
+    second: LevelFix_17
   - first:
-      213: -7535485166283895680
-    second: Level_18
+      213: 8012439444367731356
+    second: LevelFix_18
   - first:
-      213: -3487727018710599515
-    second: Level_19
+      213: 5131348179246562915
+    second: LevelFix_19
   - first:
-      213: 8049790762808963399
-    second: Level_20
+      213: -8023899973241751434
+    second: LevelFix_20
   - first:
-      213: 3606357452843412616
-    second: Level_21
+      213: 597823008678009395
+    second: LevelFix_21
   - first:
-      213: -5894040085864636532
-    second: Level_22
+      213: 883991065818501323
+    second: LevelFix_22
   - first:
-      213: 4923904334842328866
-    second: Level_23
+      213: -3886675536153789494
+    second: LevelFix_23
   - first:
-      213: 8369477468870344960
-    second: Level_24
+      213: 166352926759538172
+    second: LevelFix_24
   - first:
-      213: -4322900762671553876
-    second: Level_25
+      213: -714308523353928657
+    second: LevelFix_25
   - first:
-      213: -7693907275807330097
-    second: Level_26
+      213: -4346867654357097566
+    second: LevelFix_26
   - first:
-      213: -6208572571353828309
-    second: Level_27
+      213: 7616678035877766146
+    second: LevelFix_27
   - first:
-      213: 1524362989489040759
-    second: Level_28
+      213: 3118798437125840593
+    second: LevelFix_28
   - first:
-      213: -1397658942981330190
-    second: Level_29
+      213: 7101020451026302918
+    second: LevelFix_29
   - first:
-      213: -6327006661431865801
-    second: Level_30
+      213: 7499296509265239283
+    second: LevelFix_30
   - first:
-      213: -5783569869821354599
-    second: Level_31
+      213: 2641541171175352687
+    second: LevelFix_31
   - first:
-      213: 6501173407947138247
-    second: Level_32
+      213: 5398122530017777037
+    second: LevelFix_32
   - first:
-      213: 3062126979991571458
-    second: Level_33
+      213: 8451035594998520967
+    second: LevelFix_33
   - first:
-      213: -1422559227806748088
-    second: Level_34
+      213: 975741886995773963
+    second: LevelFix_34
   - first:
-      213: 6260931471182728557
-    second: Level_35
+      213: -3674812473712187168
+    second: LevelFix_35
   - first:
-      213: -8524031991672407136
-    second: Level_36
+      213: 2601403244012635159
+    second: LevelFix_36
   - first:
-      213: -2506174707417721911
-    second: Level_37
+      213: -2772391575842158940
+    second: LevelFix_37
   - first:
-      213: 2885866223420694126
-    second: Level_38
+      213: -3098110039889382824
+    second: LevelFix_38
   - first:
-      213: -7036399362139294077
-    second: Level_39
+      213: -6793297518939783305
+    second: LevelFix_39
   - first:
-      213: 5960272244874548046
-    second: Level_40
+      213: -3873994424172513195
+    second: LevelFix_40
   - first:
-      213: 3222555504739047463
-    second: Level_41
+      213: 8239451356910147657
+    second: LevelFix_41
   - first:
-      213: 7494555306143878810
-    second: Level_0
-  - first:
-      213: 1602869530445042757
-    second: Level_1
-  - first:
-      213: -322023605798497621
-    second: Level_2
-  - first:
-      213: 6684733422950040606
-    second: Level_3
-  - first:
-      213: -2596824922891323199
-    second: Level_4
-  - first:
-      213: 5326495486601241960
-    second: Level_5
-  - first:
-      213: -98070953687141443
-    second: Level_6
-  - first:
-      213: 628845017703571298
-    second: Level_7
-  - first:
-      213: 4828599946735722811
-    second: Level_8
-  - first:
-      213: 998555200321898055
-    second: Level_9
-  - first:
-      213: -7186152242697958657
-    second: Level_10
-  - first:
-      213: -1996698112096108043
-    second: Level_11
-  - first:
-      213: -398942426942947318
-    second: Level_12
-  - first:
-      213: 3394408158667558008
-    second: Level_13
-  - first:
-      213: -5791126891607647998
-    second: Level_14
-  - first:
-      213: 4308879923050191356
-    second: Level_15
-  - first:
-      213: 2934599278939165227
-    second: Level_16
-  - first:
-      213: 8145292840651774033
-    second: Level_17
-  - first:
-      213: 8457548471868987843
-    second: Level_18
-  - first:
-      213: -5293640799328613677
-    second: Level_42
+      213: 4199415864775293499
+    second: LevelFix_42
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -218,7 +161,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -241,6 +184,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -272,7 +217,31 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -287,7 +256,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level_0
+      name: LevelFix_0
       rect:
         serializedVersion: 2
         x: 0
@@ -301,14 +270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9e8934d752020860800000000000000
-      internalID: 7494555306143878810
+      spriteID: 59cdf2ed53d9c8da0800000000000000
+      internalID: -5941200953722020715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_1
+      name: LevelFix_1
       rect:
         serializedVersion: 2
         x: 64
@@ -322,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 544597778598e3610800000000000000
-      internalID: 1602869530445042757
+      spriteID: 8fc03d6f0f3bf32e0800000000000000
+      internalID: -2143797050090517256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_2
+      name: LevelFix_2
       rect:
         serializedVersion: 2
         x: 128
@@ -343,14 +312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba217179c31f78bf0800000000000000
-      internalID: -322023605798497621
+      spriteID: b9c3db49603280590800000000000000
+      internalID: -7707872251072398181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_3
+      name: LevelFix_3
       rect:
         serializedVersion: 2
         x: 192
@@ -364,14 +333,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e144e1581a1f4cc50800000000000000
-      internalID: 6684733422950040606
+      spriteID: 6f452f877502788d0800000000000000
+      internalID: -2844269079597787914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_4
+      name: LevelFix_4
       rect:
         serializedVersion: 2
         x: 256
@@ -385,14 +354,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c87e2fbd7936fbd0800000000000000
-      internalID: -2596824922891323199
+      spriteID: f027e7f5f2ee38e50800000000000000
+      internalID: 6810548948747317775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_5
+      name: LevelFix_5
       rect:
         serializedVersion: 2
         x: 320
@@ -406,14 +375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 865a6909c638be940800000000000000
-      internalID: 5326495486601241960
+      spriteID: 4cc1a716029d18e20800000000000000
+      internalID: 3351198330837933252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_6
+      name: LevelFix_6
       rect:
         serializedVersion: 2
         x: 384
@@ -427,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db3b1babcf493aef0800000000000000
-      internalID: -98070953687141443
+      spriteID: b4d540230eebe5bb0800000000000000
+      internalID: -4945305470685127349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_7
+      name: LevelFix_7
       rect:
         serializedVersion: 2
         x: 448
@@ -448,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26fdefa363b1ab800800000000000000
-      internalID: 628845017703571298
+      spriteID: f56265efd139f8920800000000000000
+      internalID: 2994774034255062623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_8
+      name: LevelFix_8
       rect:
         serializedVersion: 2
         x: 0
@@ -469,14 +438,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3127ab8112a20340800000000000000
-      internalID: 4828599946735722811
+      spriteID: 6d4c7fe4e281da010800000000000000
+      internalID: 1201643262750213334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_9
+      name: LevelFix_9
       rect:
         serializedVersion: 2
         x: 64
@@ -490,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7464ec30aa49bdd00800000000000000
-      internalID: 998555200321898055
+      spriteID: 5ad8471823c7dc120800000000000000
+      internalID: 2435739529839414693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_10
+      name: LevelFix_10
       rect:
         serializedVersion: 2
         x: 128
@@ -511,14 +480,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffa8c10fb98a54c90800000000000000
-      internalID: -7186152242697958657
+      spriteID: 7371564a6b5cf6680800000000000000
+      internalID: -8759565361979517129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_11
+      name: LevelFix_11
       rect:
         serializedVersion: 2
         x: 192
@@ -532,14 +501,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f181d065ad4a44e0800000000000000
-      internalID: -1996698112096108043
+      spriteID: 7b52e7b4d6cf68cb0800000000000000
+      internalID: -4861921201351678537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_12
+      name: LevelFix_12
       rect:
         serializedVersion: 2
         x: 256
@@ -553,14 +522,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a00cb34f9fba67af0800000000000000
-      internalID: -398942426942947318
+      spriteID: edf270ed5a1051270800000000000000
+      internalID: 8220478506740953054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_13
+      name: LevelFix_13
       rect:
         serializedVersion: 2
         x: 320
@@ -574,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87c41186c3c5b1f20800000000000000
-      internalID: 3394408158667558008
+      spriteID: 0c353aa10b025aff0800000000000000
+      internalID: -25578282147425344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_14
+      name: LevelFix_14
       rect:
         serializedVersion: 2
         x: 384
@@ -595,14 +564,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 209938856c8c1afa0800000000000000
-      internalID: -5791126891607647998
+      spriteID: 241d125c5a3f184d0800000000000000
+      internalID: -3133955972370673342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_15
+      name: LevelFix_15
       rect:
         serializedVersion: 2
         x: 448
@@ -616,14 +585,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf91839e5773ccb30800000000000000
-      internalID: 4308879923050191356
+      spriteID: caff0c9a29e57e970800000000000000
+      internalID: 8784093582215675820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_16
+      name: LevelFix_16
       rect:
         serializedVersion: 2
         x: 0
@@ -637,14 +606,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b22594bfe7ac9b820800000000000000
-      internalID: 2934599278939165227
+      spriteID: 279c29038f8907140800000000000000
+      internalID: 4715437001591146866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_17
+      name: LevelFix_17
       rect:
         serializedVersion: 2
         x: 64
@@ -658,14 +627,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 158d496dea4e90170800000000000000
-      internalID: 8145292840651774033
+      spriteID: a4a1fcc7d332e3bb0800000000000000
+      internalID: -4954483793067042230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_18
+      name: LevelFix_18
       rect:
         serializedVersion: 2
         x: 128
@@ -679,14 +648,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c91660768f3f5570800000000000000
-      internalID: 8457548471868987843
+      spriteID: c9aedd11937e13f60800000000000000
+      internalID: 8012439444367731356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_19
+      name: LevelFix_19
       rect:
         serializedVersion: 2
         x: 192
@@ -700,14 +669,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a8f83851ca199fc0800000000000000
-      internalID: -3487727018710599515
+      spriteID: 36eb6d26bf5363740800000000000000
+      internalID: 5131348179246562915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_20
+      name: LevelFix_20
       rect:
         serializedVersion: 2
         x: 256
@@ -721,14 +690,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 741f2759c0a96bf60800000000000000
-      internalID: 8049790762808963399
+      spriteID: 678b8ad9c7165a090800000000000000
+      internalID: -8023899973241751434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_21
+      name: LevelFix_21
       rect:
         serializedVersion: 2
         x: 320
@@ -742,14 +711,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88c60ddfefa5c0230800000000000000
-      internalID: 3606357452843412616
+      spriteID: 33adec6ebd4eb4800800000000000000
+      internalID: 597823008678009395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_22
+      name: LevelFix_22
       rect:
         serializedVersion: 2
         x: 384
@@ -763,14 +732,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8f102615c9243ea0800000000000000
-      internalID: -5894040085864636532
+      spriteID: bc01bb6d031944c00800000000000000
+      internalID: 883991065818501323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_23
+      name: LevelFix_23
       rect:
         serializedVersion: 2
         x: 448
@@ -784,14 +753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 227784297e8355440800000000000000
-      internalID: 4923904334842328866
+      spriteID: acb3a5e3131cf0ac0800000000000000
+      internalID: -3886675536153789494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_24
+      name: LevelFix_24
       rect:
         serializedVersion: 2
         x: 0
@@ -805,14 +774,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00107af1a6b562470800000000000000
-      internalID: 8369477468870344960
+      spriteID: cfd49d20b110f4200800000000000000
+      internalID: 166352926759538172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_25
+      name: LevelFix_25
       rect:
         serializedVersion: 2
         x: 64
@@ -826,14 +795,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca262b9f8a8f104c0800000000000000
-      internalID: -4322900762671553876
+      spriteID: f2c847dbe244616f0800000000000000
+      internalID: -714308523353928657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_26
+      name: LevelFix_26
       rect:
         serializedVersion: 2
         x: 128
@@ -847,14 +816,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc0f5b2c810c93590800000000000000
-      internalID: -7693907275807330097
+      spriteID: 2a3e86826e2dca3c0800000000000000
+      internalID: -4346867654357097566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_27
+      name: LevelFix_27
       rect:
         serializedVersion: 2
         x: 192
@@ -868,14 +837,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b24b83a0428b6d9a0800000000000000
-      internalID: -6208572571353828309
+      spriteID: 204a3099150e3b960800000000000000
+      internalID: 7616678035877766146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_28
+      name: LevelFix_28
       rect:
         serializedVersion: 2
         x: 256
@@ -889,14 +858,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77d2f310010a72510800000000000000
-      internalID: 1524362989489040759
+      spriteID: 1deddea87a2384b20800000000000000
+      internalID: 3118798437125840593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_29
+      name: LevelFix_29
       rect:
         serializedVersion: 2
         x: 320
@@ -910,14 +879,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fa2372b8948a9ce0800000000000000
-      internalID: -1397658942981330190
+      spriteID: 6c7f4363a74eb8260800000000000000
+      internalID: 7101020451026302918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_30
+      name: LevelFix_30
       rect:
         serializedVersion: 2
         x: 384
@@ -931,14 +900,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73ec2dd96f4f138a0800000000000000
-      internalID: -6327006661431865801
+      spriteID: 3fcd414317ad21860800000000000000
+      internalID: 7499296509265239283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_31
+      name: LevelFix_31
       rect:
         serializedVersion: 2
         x: 448
@@ -952,14 +921,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99d55a798d1acbfa0800000000000000
-      internalID: -5783569869821354599
+      spriteID: f69e97f13b3a8a420800000000000000
+      internalID: 2641541171175352687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_32
+      name: LevelFix_32
       rect:
         serializedVersion: 2
         x: 0
@@ -973,14 +942,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c4a7e315cec83a50800000000000000
-      internalID: 6501173407947138247
+      spriteID: d851ebf27dbf9ea40800000000000000
+      internalID: 5398122530017777037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_33
+      name: LevelFix_33
       rect:
         serializedVersion: 2
         x: 64
@@ -994,14 +963,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20c8983b34cde7a20800000000000000
-      internalID: 3062126979991571458
+      spriteID: 78c9110291c184570800000000000000
+      internalID: 8451035594998520967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_34
+      name: LevelFix_34
       rect:
         serializedVersion: 2
         x: 128
@@ -1015,14 +984,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 842ff9a5bed024ce0800000000000000
-      internalID: -1422559227806748088
+      spriteID: b0a3ad693188a8d00800000000000000
+      internalID: 975741886995773963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_35
+      name: LevelFix_35
       rect:
         serializedVersion: 2
         x: 192
@@ -1036,14 +1005,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6d09ee400c43e650800000000000000
-      internalID: 6260931471182728557
+      spriteID: 0e8e5307681700dc0800000000000000
+      internalID: -3674812473712187168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_36
+      name: LevelFix_36
       rect:
         serializedVersion: 2
         x: 256
@@ -1057,14 +1026,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0abfc4ad01e84b980800000000000000
-      internalID: -8524031991672407136
+      spriteID: 7140ce4b77a0a1420800000000000000
+      internalID: 2601403244012635159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_37
+      name: LevelFix_37
       rect:
         serializedVersion: 2
         x: 320
@@ -1078,14 +1047,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c35c43c167483dd0800000000000000
-      internalID: -2506174707417721911
+      spriteID: 4a684afec8c7689d0800000000000000
+      internalID: -2772391575842158940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_38
+      name: LevelFix_38
       rect:
         serializedVersion: 2
         x: 0
@@ -1099,14 +1068,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6ed94c4a08ac0820800000000000000
-      internalID: 2885866223420694126
+      spriteID: 852725d455d4105d0800000000000000
+      internalID: -3098110039889382824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_39
+      name: LevelFix_39
       rect:
         serializedVersion: 2
         x: 64
@@ -1120,14 +1089,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 386f6e18f00b95e90800000000000000
-      internalID: -7036399362139294077
+      spriteID: 77f3d0226eb59b1a0800000000000000
+      internalID: -6793297518939783305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_40
+      name: LevelFix_40
       rect:
         serializedVersion: 2
         x: 128
@@ -1141,14 +1110,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e431e50270427b250800000000000000
-      internalID: 5960272244874548046
+      spriteID: 5587a55b89ecc3ac0800000000000000
+      internalID: -3873994424172513195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_41
+      name: LevelFix_41
       rect:
         serializedVersion: 2
         x: 192
@@ -1162,14 +1131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72853f06821d8bc20800000000000000
-      internalID: 3222555504739047463
+      spriteID: 9485db8ca59685270800000000000000
+      internalID: 8239451356910147657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Level_42
+      name: LevelFix_42
       rect:
         serializedVersion: 2
         x: 256
@@ -1183,8 +1152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dac08b6db53986b0800000000000000
-      internalID: -5293640799328613677
+      spriteID: b3a3214ca72574a30800000000000000
+      internalID: 4199415864775293499
       vertices: []
       indices: 
       edges: []
