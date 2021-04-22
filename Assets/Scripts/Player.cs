@@ -8,6 +8,9 @@ public class Player : MonoBehaviour
     float v;
     Vector3 moveDirection;
     [SerializeField] float speed = 3;
+    [SerializeField] Transform aim;
+    [SerializeField] Camera camera;
+    Vector2 facingDirection;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,5 +24,9 @@ public class Player : MonoBehaviour
         moveDirection.x = h;
         moveDirection.y = v;
         transform.position += moveDirection * Time.deltaTime * speed;
+
+        // aim movement
+        facingDirection = camera.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        aim.position = transform.position + (Vector3)facingDirection.normalized;
     }
 }
